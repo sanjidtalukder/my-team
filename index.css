@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+p{
+    color: orangered;
+    border: 2px solid blue;
+    border-radius: 15%;
+    background-color: aqua;
+    margin: 10px;
+    padding: 12px;
+    text-align: justify;
+    font-size: large;
+}
